@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, My name is Anastasia
+#### 🧑‍💻 Aspiring Web Developer | Learning HTML, CSS, & JavaScript
+ I'm an aspiring web developer passionate about building interactive and user-friendly websites.I’m currently on a journey to master HTML, CSS, and JavaScript, with the goal of creating responsive and accessible web experiences.
 
-<!--
-**Anas-Stasia/Anas-Stasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page.Portfolio Website: A personal project to showcase my skills, projects, and resume. To-Do List App: A simple to-do list application to practice JavaScript fundamentals. Responsive Web Design: Building a responsive landing page using Flexbox and Grid. 
+- 🌱 I’m currently learning HTML5: Understanding the structure of web pages. CSS3: Exploring the beauty of styling and layout. JavaScript: Diving into the world of interactivity and dynamic content. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anastasia ndanwea/)  
+
+
+
+---
+
+
