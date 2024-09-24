@@ -8,7 +8,9 @@ Skills:  JS / HTML / CSS
 - 🌱 I’m currently learning HTML5: Understanding the structure of web pages. CSS3: Exploring the beauty of styling and layout. JavaScript: Diving into the world of interactivity and dynamic content. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Anastasia Ndanwea/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anastasia-ndanwea-676235221/)  
+
+
 
  
 
